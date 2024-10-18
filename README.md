@@ -1,5 +1,8 @@
 This is the accompanying code for the paper: Loss-Aversively Fair Classification. 
 
+https://dl.acm.org/doi/abs/10.1145/3306618.3314266
+
+
 # How to run the code: 
 
 1. Install dependencies mentioned in the requirement.txt file. 
