@@ -16,9 +16,14 @@ https://dl.acm.org/doi/abs/10.1145/3306618.3314266
 Please cite our paper if you use the code:
 
 @inproceedings{ali2019loss,
+  
   title={Loss-aversively fair classification},
+
   author={Ali, Junaid and Zafar, Muhammad Bilal and Singla, Adish and Gummadi, Krishna P},
+
   booktitle={Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society},
+
   pages={211--218},
+
   year={2019}
 }
